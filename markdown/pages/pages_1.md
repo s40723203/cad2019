@@ -1,6 +1,6 @@
 Title: About
 
-## CMSimfly 內容管理網誌
+## s40723203
 
 課程倉儲: <a href="https://github.com/s40723203/cad2019">https://github.com/s40723203/cad2019</a>
 
@@ -8,7 +8,7 @@ Title: About
 
 課程投影片: <a href="https://s40723203.github.io/cad2019/reveal/index.html#/">https://s40723203.github.io/cad2019/reveal/index.html#/</a>
 
-期中報告: <a href="https://youtu.be/u5Kgt975Zk0>https://youtu.be/u5Kgt975Zk0</a>
+期中報告: <a href="https://youtu.be/u5Kgt975Zk0">https://youtu.be/u5Kgt975Zk0</a>
 
 
 
